@@ -1,0 +1,1 @@
+# fluent-validation-azure-function-isolated
