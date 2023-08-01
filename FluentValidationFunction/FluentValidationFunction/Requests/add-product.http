@@ -1,0 +1,8 @@
+POST http://localhost:7275/api/AddProductAsync
+
+{
+    "name": "Milk",
+    "sku": "MILK01",
+    "quantity": 1,
+    "price": 3.99
+}
